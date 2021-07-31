@@ -3,8 +3,8 @@
 # Ruby On Rails Security Practices Aggregation
 
 Let's make Ruby on Rails applications not only perfect, but also as secure as possible.<br/>
-In this simple readme sheets I try to collect all the good advice from the endless internet with explanation of why we should do it this way..<hr/>
+In these simple readme sheets I try to collect all the good advice from the endless internet with explanation of why we should do it this way..<hr/>
 Project In Progress✏️...<br/>
 
 ## Content
-- Command Injection
+- [**Command Injection**](command_injection.md)
